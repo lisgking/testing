@@ -1,0 +1,14 @@
+{
+	"_locale":"en_US",
+	"hehe":{
+		"name":"Testing Application",
+		"description":"This is testing application"
+	},
+	"welcome":"Welcome",
+	"placeholder":"Placeholder",
+	"greeting":"Hello $1 and $2!",
+	"app":{
+		"name":"Testing Application",
+		"description":"This is testing application"
+	}
+}

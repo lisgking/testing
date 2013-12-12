@@ -1,0 +1,43 @@
+/*~~~~~~~~~~reset~~~~~~~~~~*/
+body,p,h1,h2,h3,table,ul,ol,dl,dd,
+form,fieldset,legend,input,select,textarea,label,button{
+	margin:0;
+}
+body{
+	font:12px/24px Consolas,Arial;
+}
+ul,ol,dd{
+	padding-left:0;
+}
+ul,ol{
+	list-style-type: none;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*~~~~~~~~~~classes~~~~~~~~~~*/
+.hspacer{
+	display:inline-block;
+	line-height:0;
+	overflow:hidden;
+}
+.vspacer{
+	display:block;
+	line-height:0;
+	overflow:hidden;
+}
+.hidden{
+	display:none;
+}
+.clearafter:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.clear-after:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+/*~~~~~~~~~~classes~~~~~~~~~~*/

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<title>JSON I18n Resource Editor</title>
+	<link rel="stylesheet" href="assets/styles/global.css" />
+	<link rel="stylesheet" href="assets/styles/i18n-editor.css" />
+	<script src="assets/libs/jquery-1.8.2.js"></script>
+	<script src="assets/scripts/app/i18n-dependency.js"></script>
+	<script src="assets/scripts/app/i18n-editor.js"></script>
+</head>
+<body>
+	<div class="wrapper">
+		<div class="toolbar">
+			<input type="button" value="Save Changes" class="i18n-button" id="btn_saveChanges" />
+			<input type="button" value="Reset" class="i18n-button" id="btn_reset" />
+		</div>
+		<div id="i18n_editor" class="i18n-editor">
+			<table id="i18n_table" class="i18n-table" data-source="assets/_locales/$1/message.json" data-service="json.jsp">
+			<caption>I18n JSON Editor</caption>
+			<thead>
+				<tr>
+					<th>Keys</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<td>
+						<input type="button" value="Add Locale" class="i18n-button" id="btn_addLocale" />
+						<input type="button" value="Add Row" class="i18n-button" id="btn_addRow" />
+					</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<td>Loading..</td>
+				</tr>
+			</tbody>
+			</table>
+		</div>
+		<dl id="features">
+			<dt>Features</dt>
+			<dd>Loading and editing multiple i18n json files in one page</dd>
+			<dd>Shortcut support:<br />
+				<ul>
+					<li>Save/Redo/Undo support</li>
+					<li>Up(↑)/Down(↓) to go to previous/next line, Tab(→)/Shift+Tab(←) to go to previous/next cell;</li>
+				</ul>
+			</dd>
+			<dd>Highlight line/cell modified</dd>
+		</dl>
+	</div>
+</body>
+</html>

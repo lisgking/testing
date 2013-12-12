@@ -1,0 +1,3 @@
+String.padding=function(){
+	
+};

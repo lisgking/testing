@@ -1,0 +1,117 @@
+body{
+	counter-reset:linenumber;
+}
+.wrapper{
+	margin:10px;
+}
+.i18n-editor{
+	min-width:950px;
+	height:600px;
+	overflow:auto;
+	border:1px solid #ccc;
+}
+#features>dd{
+	padding-left:2em;
+}
+#features>dd>ul{
+	padding-left:2em;
+}
+/*----------------------------------------------------------------*/
+/* table */
+/*----------------------------------------------------------------*/
+.i18n-table{
+	width:100%;
+	table-layout:fixed;
+	empty-cells:show;
+}
+.i18n-table>caption{
+	border-bottom:1px solid #ddd;
+}
+.i18n-table>thead{
+	border-bottom:1px solid #ddd;
+	background:linear-gradient(#fafafa,#eee);
+	background:-moz-linear-gradient(#fafafa,#eee);
+	background:-webkit-linear-gradient(#fafafa,#eee);
+}
+.i18n-table th{
+	padding:0 5px;
+	height:32px;
+	text-align:left;
+}
+.i18n-table th:first-child{
+	width:1.5em;
+}
+/* tbody tr */
+.i18n-table>tbody>tr{
+	border-bottom:1px solid #ddd;
+}
+.i18n-table>tbody>tr[data-key="_locale"]{
+	display:none;
+}
+.i18n-table>tbody>tr:nth-child(even){
+	background-color:#fafafa;
+}
+.i18n-table>tbody>tr.insert-before td{
+	background-color:#FFF7D9;
+	border-top:1px solid #FF9900;
+}
+.i18n-table>tbody>tr.insert-after td{
+	background-color:#FFF7D9;
+	border-bottom:1px solid #FF9900;
+}
+.i18n-table>tbody>tr.dragging{
+	opacity:0;
+}
+/* td */
+.i18n-table td{
+	padding:0 5px;
+	height:26px;
+	max-height:26px;
+	line-height:26px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+@-moz-document url-prefix(){
+	.i18n-table td:focus{
+		outline:1px solid orange;
+	}
+}
+.i18n-table td[axis="index"]{
+	
+}
+.i18n-table td[axis="index"]:before{
+	display:inline-block;
+	width:1.5em;
+	text-align:right;
+	content:counter(linenumber);
+	counter-increment:linenumber;
+	color:#787878;
+}
+.i18n-table>tbody>.moved>td[axis="index"]:before,
+.i18n-table>tbody>.modified>td[axis="index"]:before{
+	background-color:#c7ffc4;
+}
+.i18n-table>tbody>.modified{
+	
+}
+.i18n-table>tbody>tr>.modified{
+	background-color:#efffee;
+}
+.i18n-table>tfoot td{
+	padding:0 5px;
+	line-height:32px;
+}
+.i18n-button{
+	height:22px;
+	padding:0 5px;
+}
+.button-remove{
+	width:16px;
+	height:16px;
+	text-indent:-9999px;
+	vertical-align:middle;
+}
+#btn_addLocale{
+	float:right;
+	margin-top:5px;
+}

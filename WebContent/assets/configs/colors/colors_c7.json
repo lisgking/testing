@@ -1,0 +1,654 @@
+[
+	{
+		"zh": "洋红",
+		"en": "Magenta",
+		"hex": "#CF0070"
+	},
+	{
+		"zh": "胭脂红",
+		"en": "Carmine",
+		"hex": "#D70040"
+	},
+	{
+		"zh": "宝石红",
+		"en": "Ruby",
+		"hex": "#C80852"
+	},
+	{
+		"zh": "玫瑰红",
+		"en": "Rose red",
+		"hex": "#E61C64"
+	},
+	{
+		"zh": "山茶红",
+		"en": "Camellia",
+		"hex": "#DC5B6F"
+	},
+	{
+		"zh": "浅玫瑰红",
+		"en": "Rose pink",
+		"hex": "#EE869A"
+	},
+	{
+		"zh": "尖晶石红",
+		"en": "Spinel red",
+		"hex": "#F09192"
+	},
+	{
+		"zh": "优品紫红",
+		"en": "Opera mauve",
+		"hex": "#E198C0"
+	},
+	{
+		"zh": "浅珊瑚红",
+		"en": "Coral pink",
+		"hex": "#F19C9F"
+	},
+	{
+		"zh": "火鹤红",
+		"en": "Flamingo",
+		"hex": "#F5B2B2"
+	},
+	{
+		"zh": "浅珍珠红",
+		"en": "Pearl pink",
+		"hex": "#F7C8CF"
+	},
+	{
+		"zh": "壳黄红",
+		"en": "Shell pink",
+		"hex": "#F8C6B5"
+	},
+	{
+		"zh": "浅粉红",
+		"en": "Baby pink",
+		"hex": "#FCE5DF"
+	},
+	{
+		"zh": "鲑红",
+		"en": "Salmon pink",
+		"hex": "#F29B87"
+	},
+	{
+		"zh": "朱红",
+		"en": "Vermilion",
+		"hex": "#E94729"
+	},
+	{
+		"zh": "猩红",
+		"en": "Scarlet",
+		"hex": "#E60012"
+	},
+	{
+		"zh": "鲜红",
+		"en": "Strong red",
+		"hex": "#D8000F"
+	},
+	{
+		"zh": "枢机红",
+		"en": "Cardinal red",
+		"hex": "#A40027"
+	},
+	{
+		"zh": "勃艮第酒红",
+		"en": "Burgundy",
+		"hex": "#66192D"
+	},
+	{
+		"zh": "灰玫红",
+		"en": "Old rose",
+		"hex": "#C2737F"
+	},
+	{
+		"zh": "威尼斯红",
+		"en": "Venetian red",
+		"hex": "#C80815"
+	},
+	
+	
+	
+	{
+		"zh": "苍",
+		"en": "Horizon blue",
+		"hex": "#B0DCD5"
+	},
+	{
+		"zh": "亮天蓝",
+		"en": "Light sky blue",
+		"hex": "#A1D8E6"
+	},
+	{
+		"zh": "水蓝",
+		"en": "Aqua blue",
+		"hex": "#59C3E2"
+	},
+	{
+		"zh": "湛蓝",
+		"en": "Azure blue",
+		"hex": "#22AEE6"
+	},
+	{
+		"zh": "天蓝",
+		"en": "Sky blue",
+		"hex": "#94C6D0"
+	},
+	{
+		"zh": "浅蓝",
+		"en": "Baby blue",
+		"hex": "#B1D4DB"
+	},
+	{
+		"zh": "灰蓝",
+		"en": "Pale blue",
+		"hex": "#8BB0CD"
+	},
+	{
+		"zh": "萨克斯蓝",
+		"en": "Saxe blue",
+		"hex": "#4C8DB5"
+	},
+	{
+		"zh": "碧蓝",
+		"en": "Aquamarine",
+		"hex": "#2983B1"
+	},
+	{
+		"zh": "绿松石蓝",
+		"en": "Turquoise blue",
+		"hex": "#00A4C5"
+	},
+	{
+		"zh": "青蓝",
+		"en": "Cyan",
+		"hex": "#008890"
+	},
+	{
+		"zh": "孔雀蓝",
+		"en": "Peacock blue",
+		"hex": "#006980"
+	},
+	{
+		"zh": "蔚蓝",
+		"en": "Cerulean blue",
+		"hex": "#007BBB"
+	},
+	{
+		"zh": "钴蓝",
+		"en": "Cobalt blue",
+		"hex": "#005DAC"
+	},
+	{
+		"zh": "深海蓝",
+		"en": "Ultramarine",
+		"hex": "#004098"
+	},
+	{
+		"zh": "品蓝",
+		"en": "Royal blue",
+		"hex": "#1E50A2"
+	},
+	
+	
+	
+	{
+		"zh": "橘",
+		"en": "Tangerine",
+		"hex": "#EA5520"
+	},
+	{
+		"zh": "柿子橙",
+		"en": "Persimmon",
+		"hex": "#ED6E3D"
+	},
+	{
+		"zh": "橙",
+		"en": "Orange",
+		"hex": "#ED6D00"
+	},
+	{
+		"zh": "阳橙",
+		"en": "Sun orange",
+		"hex": "#F18D00"
+	},
+	{
+		"zh": "热带橙",
+		"en": "Tropical orange",
+		"hex": "#F39839"
+	},
+	{
+		"zh": "蜜橙",
+		"en": "Honey orange",
+		"hex": "#F9C270"
+	},
+	{
+		"zh": "杏黄",
+		"en": "Apricot",
+		"hex": "#E5A96B"
+	},
+	{
+		"zh": "沙棕",
+		"en": "Sand beige",
+		"hex": "#ECD6CA"
+	},
+	{
+		"zh": "米",
+		"en": "Beige",
+		"hex": "#E3CCA9"
+	},
+	{
+		"zh": "灰土",
+		"en": "Pale ocre",
+		"hex": "#D3B78F"
+	},
+	{
+		"zh": "驼",
+		"en": "Camel",
+		"hex": "#B58654"
+	},
+	{
+		"zh": "椰褐",
+		"en": "Coconut brown",
+		"hex": "#6A3315"
+	},
+	{
+		"zh": "褐",
+		"en": "Brown",
+		"hex": "#713B12"
+	},
+	{
+		"zh": "咖啡",
+		"en": "Coffee",
+		"hex": "#694B23"
+	},
+	
+	
+	
+	{
+		"zh": "万寿菊黄",
+		"en": "Marigold",
+		"hex": "#F7AB00"
+	},
+	{
+		"zh": "铬黄；铭黄",
+		"en": "Chrome yellow",
+		"hex": "#FDD000"
+	},
+	{
+		"zh": "金",
+		"en": "Golden",
+		"hex": "#FFD700"
+	},
+	{
+		"zh": "茉莉黄",
+		"en": "Jasmine",
+		"hex": "#FEDD78"
+	},
+	{
+		"zh": "米黄；奶油",
+		"en": "Cream",
+		"hex": "#FFEAB4"
+	},
+	{
+		"zh": "象牙；乳白",
+		"en": "Ivory",
+		"hex": "#EBE5D1"
+	},
+	{
+		"zh": "香槟黄",
+		"en": "Champagne yellow",
+		"hex": "#FFF8B1"
+	},
+	{
+		"zh": "月光黄",
+		"en": "Moon yellow",
+		"hex": "#FFF463"
+	},
+	{
+		"zh": "黄",
+		"en": "Yellow",
+		"hex": "#FFFF00"
+	},
+	{
+		"zh": "鲜黄",
+		"en": "Canary yellow",
+		"hex": "#FFF100"
+	},
+	{
+		"zh": "含羞草黄",
+		"en": "Mimosa",
+		"hex": "#EDD443"
+	},
+	{
+		"zh": "芥末；暗黄",
+		"en": "Mustard",
+		"hex": "#D6C560"
+	},
+	{
+		"zh": "赭；黄褐",
+		"en": "Ocher",
+		"hex": "#C48F00"
+	},
+	{
+		"zh": "卡其；土黄",
+		"en": "Khaki",
+		"hex": "#B08827"
+	},
+	
+	
+	
+	{
+		"zh": "黄绿",
+		"en": "Yellow green",
+		"hex": "#C4D700"
+	},
+	{
+		"zh": "苹果绿",
+		"en": "Apple green",
+		"hex": "#9EBD19"
+	},
+	{
+		"zh": "嫩绿",
+		"en": "Fresh leaves",
+		"hex": "#A9D06B"
+	},
+	{
+		"zh": "叶绿",
+		"en": "Foliage green",
+		"hex": "#87A256"
+	},
+	{
+		"zh": "草绿",
+		"en": "Grass green",
+		"hex": "#AAC468"
+	},
+	{
+		"zh": "苔藓绿",
+		"en": "Moss green",
+		"hex": "#888637"
+	},
+	{
+		"zh": "橄榄绿",
+		"en": "Olive",
+		"hex": "#625A05"
+	},
+	{
+		"zh": "常春藤绿",
+		"en": "Ivy green",
+		"hex": "#3D7D53"
+	},
+	{
+		"zh": "钴绿",
+		"en": "Cobalt green",
+		"hex": "#6ABD78"
+	},
+	{
+		"zh": "碧绿",
+		"en": "Emerald green",
+		"hex": "#15AE69"
+	},
+	{
+		"zh": "绿松石绿",
+		"en": "Turquoise green",
+		"hex": "#42AB91"
+	},
+	{
+		"zh": "青瓷绿",
+		"en": "Celadon green",
+		"hex": "#7BB99B"
+	},
+	{
+		"zh": "孔雀石绿",
+		"en": "Malachite",
+		"hex": "#008E57"
+	},
+	{
+		"zh": "薄荷绿",
+		"en": "Mint",
+		"hex": "#007850"
+	},
+	{
+		"zh": "铬绿",
+		"en": "Viridian",
+		"hex": "#006550"
+	},
+	{
+		"zh": "孔雀绿",
+		"en": "Peacock green",
+		"hex": "#008077"
+	},
+	
+	
+	
+	{
+		"zh": "爱丽丝蓝",
+		"hex": "#F0F8FF"
+	},
+	{
+		"zh": "天蓝色",
+		"hex": "#007FFF"
+	},
+	{
+		"zh": "蓝色",
+		"hex": "#0000FF"
+	},
+	{
+		"zh": "蔚蓝色",
+		"hex": "#007BA7"
+	},
+	{
+		"zh": "天青蓝",
+		"hex": "#2A52BE"
+	},
+	{
+		"zh": "钴蓝色",
+		"hex": "#0047AB"
+	},
+	{
+		"zh": "矢车菊蓝",
+		"hex": "#6495ED"
+	},
+	{
+		"zh": "深蓝色",
+		"hex": "#0000C8"
+	},
+	{
+		"zh": "丹宁布色",
+		"hex": "#1560BD"
+	},
+	{
+		"zh": "道奇蓝",
+		"hex": "#1E90FF"
+	},
+	{
+		"zh": "靛青色",
+		"hex": "#4B0082"
+	},
+	{
+		"zh": "国际奇连蓝",
+		"hex": "#002FA7"
+	},
+	{
+		"zh": "薰衣草色",
+		"hex": "#BDBBD7"
+	},
+	{
+		"zh": "午夜蓝",
+		"hex": "#003366"
+	},
+	{
+		"zh": "海军蓝",
+		"hex": "#000080"
+	},
+	{
+		"zh": "长春花色",
+		"hex": "#CCCCFF"
+	},
+	{
+		"zh": "波斯蓝",
+		"hex": "#32127A"
+	},
+	{
+		"zh": "粉末蓝",
+		"hex": "#B0E0E6"
+	},
+	{
+		"zh": "普鲁士蓝",
+		"hex": "#003153"
+	},
+	{
+		"zh": "皇室蓝",
+		"hex": "#4169E1"
+	},
+	{
+		"zh": "青玉色",
+		"hex": "#082567"
+	},
+	{
+		"zh": "钢青色",
+		"hex": "#4682b4"
+	},
+	{
+		"zh": "群青色",
+		"hex": "#120a8f"
+	},
+	{
+		"zh": "浅蓝色",
+		"hex": "#ADD8E6"
+	},
+	
+	
+	
+	{
+		"zh": "天青石靛",
+		"en": "Lapis lazuli",
+		"hex": "#134098"
+	},
+	{
+		"zh": "鼠尾草蓝",
+		"en": "Salvia blue",
+		"hex": "#5B77AF"
+	},
+	{
+		"zh": "韦奇伍德瓷蓝",
+		"en": "Wedgwood blue",
+		"hex": "#6684B0"
+	},
+	{
+		"zh": "岩蓝",
+		"en": "Slate blue",
+		"hex": "#527AA3"
+	},
+	{
+		"zh": "宝石蓝",
+		"en": "Sapphire blue",
+		"hex": "#005789"
+	},
+	{
+		"zh": "矿蓝",
+		"en": "Mineral blue",
+		"hex": "#005178"
+	},
+	{
+		"zh": "浓蓝",
+		"en": "Strong blue",
+		"hex": "#005978"
+	},
+	{
+		"zh": "水手蓝",
+		"en": "Marine blue",
+		"hex": "#00456B"
+	},
+	{
+		"zh": "藏青",
+		"en": "Navy blue",
+		"hex": "#001954"
+	},
+	{
+		"zh": "靛",
+		"en": "Indigo",
+		"hex": "#002E5A"
+	},
+	{
+		"zh": "暗矿蓝",
+		"en": "Dark mineral blue",
+		"hex": "#38426A"
+	},
+	{
+		"zh": "午夜蓝",
+		"en": "Midnight blue",
+		"hex": "#04163A"
+	},
+	
+	
+	
+	{
+		"zh": "紫藤",
+		"en": "Wisteria",
+		"hex": "#735B9F"
+	},
+	{
+		"zh": "木槿紫",
+		"en": "Mauve",
+		"hex": "#7C509D"
+	},
+	{
+		"zh": "铁线莲紫",
+		"en": "Clematis",
+		"hex": "#D8BFCB"
+	},
+	{
+		"zh": "紫丁香",
+		"en": "Lilac",
+		"hex": "#BBA1CB"
+	},
+	{
+		"zh": "薰衣草紫",
+		"en": "Lavender",
+		"hex": "#A688B1"
+	},
+	{
+		"zh": "紫水晶",
+		"en": "Amethyst",
+		"hex": "#7E4985"
+	},
+	{
+		"zh": "紫",
+		"en": "Purple",
+		"hex": "#923D92"
+	},
+	{
+		"zh": "缬草紫",
+		"en": "Heliotrope",
+		"hex": "#6F196F"
+	},
+	{
+		"zh": "矿紫",
+		"en": "Mineral violet",
+		"hex": "#C5AFC0"
+	},
+	{
+		"zh": "三色堇紫",
+		"en": "Pansy",
+		"hex": "#8B0062"
+	},
+	{
+		"zh": "锦葵紫",
+		"en": "Mallow",
+		"hex": "#D369A4"
+	},
+	{
+		"zh": "兰紫",
+		"en": "Orchid",
+		"hex": "#D188A8"
+	},
+	{
+		"zh": "淡紫丁香",
+		"en": "Pail lilac",
+		"hex": "#EDE0E6"
+	},
+	{
+		"zh": "浅灰紫",
+		"en": "Grayish purple",
+		"hex": "#9D899D"
+	}
+]

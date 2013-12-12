@@ -1,0 +1,818 @@
+[
+	{
+		"name": "lightpink",
+		"en": "LightPink",
+		"zh": "浅粉红",
+		"hex": "#FFB6C1"
+	},
+	{
+		"name": "pink",
+		"en": "Pink",
+		"zh": "粉红",
+		"hex": "#FFC0CB"
+	},
+	{
+		"name": "crimson",
+		"en": "Crimson",
+		"zh": "猩红",
+		"hex": "#DC143C"
+	},
+	{
+		"name": "lavenderblush",
+		"en": "LavenderBlush",
+		"zh": "脸红的淡紫色",
+		"hex": "#FFF0F5"
+	},
+	{
+		"name": "palevioletred",
+		"en": "PaleVioletRed",
+		"zh": "苍白的紫罗兰红色",
+		"hex": "#DB7093"
+	},
+	{
+		"name": "hotpink",
+		"en": "HotPink",
+		"zh": "热情的粉红",
+		"hex": "#FF69B4"
+	},
+	{
+		"name": "deeppink",
+		"en": "DeepPink",
+		"zh": "深粉色",
+		"hex": "#FF1493"
+	},
+	{
+		"name": "mediumvioletred",
+		"en": "MediumVioletRed",
+		"zh": "适中的紫罗兰红色",
+		"hex": "#C71585"
+	},
+	{
+		"name": "orchid",
+		"en": "Orchid",
+		"zh": "兰花的紫色",
+		"hex": "#DA70D6"
+	},
+	{
+		"name": "thistle",
+		"en": "Thistle",
+		"zh": "蓟",
+		"hex": "#D8BFD8"
+	},
+	{
+		"name": "plum",
+		"en": "plum",
+		"zh": "李子",
+		"hex": "#DDA0DD"
+	},
+	{
+		"name": "violet",
+		"en": "Violet",
+		"zh": "紫罗兰",
+		"hex": "#EE82EE"
+	},
+	{
+		"name": "magenta",
+		"en": "Magenta",
+		"zh": "洋红",
+		"hex": "#FF00FF"
+	},
+	{
+		"name": "fuchsia",
+		"en": "Fuchsia",
+		"zh": "灯笼海棠(紫红色)",
+		"hex": "#FF00FF"
+	},
+	{
+		"name": "darkmagenta",
+		"en": "DarkMagenta",
+		"zh": "深洋红色",
+		"hex": "#8B008B"
+	},
+	{
+		"name": "purple",
+		"en": "Purple",
+		"zh": "紫色",
+		"hex": "#800080"
+	},
+	{
+		"name": "mediumorchid",
+		"en": "MediumOrchid",
+		"zh": "适中的兰花紫",
+		"hex": "#BA55D3"
+	},
+	{
+		"name": "#da00e0",
+		"en": "DarkVoilet",
+		"zh": "深紫罗兰色",
+		"hex": "#9400D3"
+	},
+	{
+		"name": "darkorchid",
+		"en": "DarkOrchid",
+		"zh": "深兰花紫",
+		"hex": "#9932CC"
+	},
+	{
+		"name": "indigo",
+		"en": "Indigo",
+		"zh": "靛青",
+		"hex": "#4B0082"
+	},
+	{
+		"name": "blueviolet",
+		"en": "BlueViolet",
+		"zh": "深紫罗兰的蓝色",
+		"hex": "#8A2BE2"
+	},
+	{
+		"name": "mediumpurple",
+		"en": "MediumPurple",
+		"zh": "适中的紫色",
+		"hex": "#9370DB"
+	},
+	{
+		"name": "mediumslateblue",
+		"en": "MediumSlateBlue",
+		"zh": "适中的板岩暗蓝灰色",
+		"hex": "#7B68EE"
+	},
+	{
+		"name": "slateblue",
+		"en": "SlateBlue",
+		"zh": "板岩暗蓝灰色",
+		"hex": "#6A5ACD"
+	},
+	{
+		"name": "darkslateblue",
+		"en": "DarkSlateBlue",
+		"zh": "深岩暗蓝灰色",
+		"hex": "#483D8B"
+	},
+	{
+		"name": "lavender",
+		"en": "Lavender",
+		"zh": "熏衣草花的淡紫色",
+		"hex": "#E6E6FA"
+	},
+	{
+		"name": "ghostwhite",
+		"en": "GhostWhite",
+		"zh": "幽灵的白色",
+		"hex": "#F8F8FF"
+	},
+	{
+		"name": "blue",
+		"en": "Blue",
+		"zh": "纯蓝",
+		"hex": "#0000FF"
+	},
+	{
+		"name": "mediumblue",
+		"en": "MediumBlue",
+		"zh": "适中的蓝色",
+		"hex": "#0000CD"
+	},
+	{
+		"name": "midnightblue",
+		"en": "MidnightBlue",
+		"zh": "午夜的蓝色",
+		"hex": "#191970"
+	},
+	{
+		"name": "darkblue",
+		"en": "DarkBlue",
+		"zh": "深蓝色",
+		"hex": "#00008B"
+	},
+	{
+		"name": "navy",
+		"en": "Navy",
+		"zh": "海军蓝",
+		"hex": "#000080"
+	},
+	{
+		"name": "royalblue",
+		"en": "RoyalBlue",
+		"zh": "皇军蓝",
+		"hex": "#4169E1"
+	},
+	{
+		"name": "cornflowerblue",
+		"en": "CornflowerBlue",
+		"zh": "矢车菊的蓝色",
+		"hex": "#6495ED"
+	},
+	{
+		"name": "lightsteelblue",
+		"en": "LightSteelBlue",
+		"zh": "淡钢蓝",
+		"hex": "#B0C4DE"
+	},
+	{
+		"name": "lightslategray",
+		"en": "LightSlateGray",
+		"zh": "浅石板灰",
+		"hex": "#778899"
+	},
+	{
+		"name": "slategray",
+		"en": "SlateGray",
+		"zh": "石板灰",
+		"hex": "#708090"
+	},
+	{
+		"name": "#d0e000",
+		"en": "DoderBlue",
+		"zh": "道奇蓝",
+		"hex": "#1E90FF"
+	},
+	{
+		"name": "aliceblue",
+		"en": "AliceBlue",
+		"zh": "爱丽丝蓝",
+		"hex": "#F0F8FF"
+	},
+	{
+		"name": "steelblue",
+		"en": "SteelBlue",
+		"zh": "钢蓝",
+		"hex": "#4682B4"
+	},
+	{
+		"name": "lightskyblue",
+		"en": "LightSkyBlue",
+		"zh": "淡蓝色",
+		"hex": "#87CEFA"
+	},
+	{
+		"name": "skyblue",
+		"en": "SkyBlue",
+		"zh": "天蓝色",
+		"hex": "#87CEEB"
+	},
+	{
+		"name": "deepskyblue",
+		"en": "DeepSkyBlue",
+		"zh": "深天蓝",
+		"hex": "#00BFFF"
+	},
+	{
+		"name": "lightblue",
+		"en": "LightBLue",
+		"zh": "淡蓝",
+		"hex": "#ADD8E6"
+	},
+	{
+		"name": "powderblue",
+		"en": "PowDerBlue",
+		"zh": "火药蓝",
+		"hex": "#B0E0E6"
+	},
+	{
+		"name": "cadetblue",
+		"en": "CadetBlue",
+		"zh": "军校蓝",
+		"hex": "#5F9EA0"
+	},
+	{
+		"name": "azure",
+		"en": "Azure",
+		"zh": "蔚蓝色",
+		"hex": "#F0FFFF"
+	},
+	{
+		"name": "lightcyan",
+		"en": "LightCyan",
+		"zh": "淡青色",
+		"hex": "#E1FFFF"
+	},
+	{
+		"name": "paleturquoise",
+		"en": "PaleTurquoise",
+		"zh": "苍白的绿宝石",
+		"hex": "#AFEEEE"
+	},
+	{
+		"name": "cyan",
+		"en": "Cyan",
+		"zh": "青色",
+		"hex": "#00FFFF"
+	},
+	{
+		"name": "aqua",
+		"en": "Aqua",
+		"zh": "水绿色",
+		"hex": "#00FFFF"
+	},
+	{
+		"name": "darkturquoise",
+		"en": "DarkTurquoise",
+		"zh": "深绿宝石",
+		"hex": "#00CED1"
+	},
+	{
+		"name": "darkslategray",
+		"en": "DarkSlateGray",
+		"zh": "深石板灰",
+		"hex": "#2F4F4F"
+	},
+	{
+		"name": "darkcyan",
+		"en": "DarkCyan",
+		"zh": "深青色",
+		"hex": "#008B8B"
+	},
+	{
+		"name": "teal",
+		"en": "Teal",
+		"zh": "水鸭色",
+		"hex": "#008080"
+	},
+	{
+		"name": "mediumturquoise",
+		"en": "MediumTurquoise",
+		"zh": "适中的绿宝石",
+		"hex": "#48D1CC"
+	},
+	{
+		"name": "lightseagreen",
+		"en": "LightSeaGreen",
+		"zh": "浅海洋绿",
+		"hex": "#20B2AA"
+	},
+	{
+		"name": "turquoise",
+		"en": "Turquoise",
+		"zh": "绿宝石",
+		"hex": "#40E0D0"
+	},
+	{
+		"name": "#a0a000",
+		"en": "Auqamarin",
+		"zh": "绿玉\\碧绿色",
+		"hex": "#7FFFAA"
+	},
+	{
+		"name": "mediumaquamarine",
+		"en": "MediumAquamarine",
+		"zh": "适中的碧绿色",
+		"hex": "#00FA9A"
+	},
+	{
+		"name": "mediumspringgreen",
+		"en": "MediumSpringGreen",
+		"zh": "适中的春天的绿色",
+		"hex": "#F5FFFA"
+	},
+	{
+		"name": "mintcream",
+		"en": "MintCream",
+		"zh": "薄荷奶油",
+		"hex": "#00FF7F"
+	},
+	{
+		"name": "springgreen",
+		"en": "SpringGreen",
+		"zh": "春天的绿色",
+		"hex": "#3CB371"
+	},
+	{
+		"name": "seagreen",
+		"en": "SeaGreen",
+		"zh": "海洋绿",
+		"hex": "#2E8B57"
+	},
+	{
+		"name": "honeydew",
+		"en": "Honeydew",
+		"zh": "蜂蜜",
+		"hex": "#F0FFF0"
+	},
+	{
+		"name": "lightgreen",
+		"en": "LightGreen",
+		"zh": "淡绿色",
+		"hex": "#90EE90"
+	},
+	{
+		"name": "palegreen",
+		"en": "PaleGreen",
+		"zh": "苍白的绿色",
+		"hex": "#98FB98"
+	},
+	{
+		"name": "darkseagreen",
+		"en": "DarkSeaGreen",
+		"zh": "深海洋绿",
+		"hex": "#8FBC8F"
+	},
+	{
+		"name": "limegreen",
+		"en": "LimeGreen",
+		"zh": "酸橙绿",
+		"hex": "#32CD32"
+	},
+	{
+		"name": "lime",
+		"en": "Lime",
+		"zh": "酸橙色",
+		"hex": "#00FF00"
+	},
+	{
+		"name": "forestgreen",
+		"en": "ForestGreen",
+		"zh": "森林绿",
+		"hex": "#228B22"
+	},
+	{
+		"name": "green",
+		"en": "Green",
+		"zh": "纯绿",
+		"hex": "#008000"
+	},
+	{
+		"name": "darkgreen",
+		"en": "DarkGreen",
+		"zh": "深绿色",
+		"hex": "#006400"
+	},
+	{
+		"name": "chartreuse",
+		"en": "Chartreuse",
+		"zh": "查特酒绿",
+		"hex": "#7FFF00"
+	},
+	{
+		"name": "lawngreen",
+		"en": "LawnGreen",
+		"zh": "草坪绿",
+		"hex": "#7CFC00"
+	},
+	{
+		"name": "greenyellow",
+		"en": "GreenYellow",
+		"zh": "绿黄色",
+		"hex": "#ADFF2F"
+	},
+	{
+		"name": "olivedrab",
+		"en": "OliveDrab",
+		"zh": "橄榄土褐色",
+		"hex": "#556B2F"
+	},
+	{
+		"name": "beige",
+		"en": "Beige",
+		"zh": "米色(浅褐色)",
+		"hex": "#6B8E23"
+	},
+	{
+		"name": "lightgoldenrodyellow",
+		"en": "LightGoldenrodYellow",
+		"zh": "浅秋麒麟黄",
+		"hex": "#FAFAD2"
+	},
+	{
+		"name": "ivory",
+		"en": "Ivory",
+		"zh": "象牙",
+		"hex": "#FFFFF0"
+	},
+	{
+		"name": "lightyellow",
+		"en": "LightYellow",
+		"zh": "浅黄色",
+		"hex": "#FFFFE0"
+	},
+	{
+		"name": "yellow",
+		"en": "Yellow",
+		"zh": "纯黄",
+		"hex": "#FFFF00"
+	},
+	{
+		"name": "olive",
+		"en": "Olive",
+		"zh": "橄榄",
+		"hex": "#808000"
+	},
+	{
+		"name": "darkkhaki",
+		"en": "DarkKhaki",
+		"zh": "深卡其布",
+		"hex": "#BDB76B"
+	},
+	{
+		"name": "lemonchiffon",
+		"en": "LemonChiffon",
+		"zh": "柠檬薄纱",
+		"hex": "#FFFACD"
+	},
+	{
+		"name": "#a00d00",
+		"en": "PaleGodenrod",
+		"zh": "灰秋麒麟",
+		"hex": "#EEE8AA"
+	},
+	{
+		"name": "khaki",
+		"en": "Khaki",
+		"zh": "卡其布",
+		"hex": "#F0E68C"
+	},
+	{
+		"name": "gold",
+		"en": "Gold",
+		"zh": "金",
+		"hex": "#FFD700"
+	},
+	{
+		"name": "#c00000",
+		"en": "Cornislk",
+		"zh": "玉米色",
+		"hex": "#FFF8DC"
+	},
+	{
+		"name": "goldenrod",
+		"en": "GoldEnrod",
+		"zh": "秋麒麟",
+		"hex": "#DAA520"
+	},
+	{
+		"name": "floralwhite",
+		"en": "FloralWhite",
+		"zh": "花的白色",
+		"hex": "#FFFAF0"
+	},
+	{
+		"name": "oldlace",
+		"en": "OldLace",
+		"zh": "老饰带",
+		"hex": "#FDF5E6"
+	},
+	{
+		"name": "wheat",
+		"en": "Wheat",
+		"zh": "小麦色",
+		"hex": "#F5DEB3"
+	},
+	{
+		"name": "moccasin",
+		"en": "Moccasin",
+		"zh": "鹿皮鞋",
+		"hex": "#FFE4B5"
+	},
+	{
+		"name": "orange",
+		"en": "Orange",
+		"zh": "橙色",
+		"hex": "#FFA500"
+	},
+	{
+		"name": "papayawhip",
+		"en": "PapayaWhip",
+		"zh": "番木瓜",
+		"hex": "#FFEFD5"
+	},
+	{
+		"name": "blanchedalmond",
+		"en": "BlanchedAlmond",
+		"zh": "漂白的杏仁",
+		"hex": "#FFEBCD"
+	},
+	{
+		"name": "navajowhite",
+		"en": "NavajoWhite",
+		"zh": "Navajo白",
+		"hex": "#FFDEAD"
+	},
+	{
+		"name": "antiquewhite",
+		"en": "AntiqueWhite",
+		"zh": "古代的白色",
+		"hex": "#FAEBD7"
+	},
+	{
+		"name": "tan",
+		"en": "Tan",
+		"zh": "晒黑",
+		"hex": "#D2B48C"
+	},
+	{
+		"name": "#b00000",
+		"en": "BrulyWood",
+		"zh": "结实的树",
+		"hex": "#DEB887"
+	},
+	{
+		"name": "bisque",
+		"en": "Bisque",
+		"zh": "(浓汤)乳脂,番茄等",
+		"hex": "#FFE4C4"
+	},
+	{
+		"name": "darkorange",
+		"en": "DarkOrange",
+		"zh": "深橙色",
+		"hex": "#FF8C00"
+	},
+	{
+		"name": "linen",
+		"en": "Linen",
+		"zh": "亚麻布",
+		"hex": "#FAF0E6"
+	},
+	{
+		"name": "peru",
+		"en": "Peru",
+		"zh": "秘鲁",
+		"hex": "#CD853F"
+	},
+	{
+		"name": "peachpuff",
+		"en": "PeachPuff",
+		"zh": "桃色",
+		"hex": "#FFDAB9"
+	},
+	{
+		"name": "sandybrown",
+		"en": "SandyBrown",
+		"zh": "沙棕色",
+		"hex": "#F4A460"
+	},
+	{
+		"name": "chocolate",
+		"en": "Chocolate",
+		"zh": "巧克力",
+		"hex": "#D2691E"
+	},
+	{
+		"name": "saddlebrown",
+		"en": "SaddleBrown",
+		"zh": "马鞍棕色",
+		"hex": "#8B4513"
+	},
+	{
+		"name": "seashell",
+		"en": "SeaShell",
+		"zh": "海贝壳",
+		"hex": "#FFF5EE"
+	},
+	{
+		"name": "sienna",
+		"en": "Sienna",
+		"zh": "黄土赭色",
+		"hex": "#A0522D"
+	},
+	{
+		"name": "lightsalmon",
+		"en": "LightSalmon",
+		"zh": "浅鲜肉(鲑鱼)色",
+		"hex": "#FFA07A"
+	},
+	{
+		"name": "coral",
+		"en": "Coral",
+		"zh": "珊瑚",
+		"hex": "#FF7F50"
+	},
+	{
+		"name": "orangered",
+		"en": "OrangeRed",
+		"zh": "橙红色",
+		"hex": "#FF4500"
+	},
+	{
+		"name": "darksalmon",
+		"en": "DarkSalmon",
+		"zh": "深鲜肉(鲑鱼)色",
+		"hex": "#E9967A"
+	},
+	{
+		"name": "tomato",
+		"en": "Tomato",
+		"zh": "番茄",
+		"hex": "#FF6347"
+	},
+	{
+		"name": "mistyrose",
+		"en": "MistyRose",
+		"zh": "薄雾玫瑰",
+		"hex": "#FFE4E1"
+	},
+	{
+		"name": "salmon",
+		"en": "Salmon",
+		"zh": "鲜肉(鲑鱼)色",
+		"hex": "#FA8072"
+	},
+	{
+		"name": "snow",
+		"en": "Snow",
+		"zh": "雪",
+		"hex": "#FFFAFA"
+	},
+	{
+		"name": "lightcoral",
+		"en": "LightCoral",
+		"zh": "淡珊瑚色",
+		"hex": "#F08080"
+	},
+	{
+		"name": "rosybrown",
+		"en": "RosyBrown",
+		"zh": "玫瑰棕色",
+		"hex": "#BC8F8F"
+	},
+	{
+		"name": "indianred",
+		"en": "IndianRed",
+		"zh": "印度红",
+		"hex": "#CD5C5C"
+	},
+	{
+		"name": "red",
+		"en": "Red",
+		"zh": "纯红",
+		"hex": "#FF0000"
+	},
+	{
+		"name": "brown",
+		"en": "Brown",
+		"zh": "棕色",
+		"hex": "#A52A2A"
+	},
+	{
+		"name": "firebrick",
+		"en": "FireBrick",
+		"zh": "耐火砖",
+		"hex": "#B22222"
+	},
+	{
+		"name": "darkred",
+		"en": "DarkRed",
+		"zh": "深红色",
+		"hex": "#8B0000"
+	},
+	{
+		"name": "maroon",
+		"en": "Maroon",
+		"zh": "栗色",
+		"hex": "#800000"
+	},
+	{
+		"name": "white",
+		"en": "White",
+		"zh": "纯白",
+		"hex": "#FFFFFF"
+	},
+	{
+		"name": "whitesmoke",
+		"en": "WhiteSmoke",
+		"zh": "白烟",
+		"hex": "#F5F5F5"
+	},
+	{
+		"name": "gainsboro",
+		"en": "Gainsboro",
+		"zh": "Gainsboro",
+		"hex": "#DCDCDC"
+	},
+	{
+		"name": "lightgrey",
+		"en": "LightGrey",
+		"zh": "浅灰色",
+		"hex": "#D3D3D3"
+	},
+	{
+		"name": "silver",
+		"en": "Silver",
+		"zh": "银白色",
+		"hex": "#C0C0C0"
+	},
+	{
+		"name": "darkgray",
+		"en": "DarkGray",
+		"zh": "深灰色",
+		"hex": "#A9A9A9"
+	},
+	{
+		"name": "gray",
+		"en": "Gray",
+		"zh": "灰色",
+		"hex": "#808080"
+	},
+	{
+		"name": "dimgray",
+		"en": "DimGray",
+		"zh": "暗淡的灰色",
+		"hex": "#696969"
+	},
+	{
+		"name": "black",
+		"en": "Black",
+		"zh": "纯黑",
+		"hex": "#000000"
+	}
+]
